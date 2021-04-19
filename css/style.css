@@ -1,0 +1,65 @@
+/*
+
+
+CSS 
+
+*/
+
+body{
+    font-family: 'Roboto Slab', serif;
+    width: 90%;
+    max-width: 600px;
+    margin: 1em auto;
+    font-size: 1em;
+    background-image: url("../img/fondo\ blanco_Mesa\ de\ trabajo\ 1.jpg"); 
+    background-size: 70%;
+    
+}
+
+h1{
+    color: rgb(205, 66,71) ;
+}
+
+p{
+    color: black;
+}
+
+h2{
+    color: rgb(205, 66,71) ;
+}
+
+
+h3{
+    color: rgb(205, 66,71) ;
+}
+
+a.btn{
+    display: inline-block;
+    line-break: none;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 1ex 1em;
+    margin: 0 1em 1em 0;
+    border-radius: 1ex;
+}
+
+.amarillo{
+    color: black;
+    background-color: rgb(161, 203, 240);
+    
+}
+
+.naranjo{
+    color:black;
+    background-color: rgb(161, 203, 240);
+    
+}
+
+.naranjo:hover{
+    background-color:rgb(245, 224,134);
+}
+
+.amarillo:hover{
+    background-color: rgb(245, 224,134);
+}
+
